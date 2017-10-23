@@ -4,4 +4,13 @@ function sole_dequeue_styles() {
     wp_dequeue_style( 'storefront-style' );
     wp_dequeue_style( 'storefront-woocommerce-style' );
 }
+
+// Setup
+
+// Includes
+
+// Hooks
+
+// Shortcodes
+
 ?>
