@@ -11,3 +11,15 @@ License URI:  	http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  	storefront
 Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
 */
+
+.woocommerce-active .site-header .site-search {
+    width: 52.8260869565%;
+    float: left;
+    margin-right: 0;
+}
+
+.woocommerce-active .site-header .secondary-navigation {
+    width: 16.7391304348%;
+    float: right;
+    margin-right: 0;
+}
