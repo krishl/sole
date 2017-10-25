@@ -33,8 +33,8 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         padding-left: 99em;
         padding-right: 99em;
     }
-
-	.main-navigation ul.menu>li>a, .main-navigation ul.nav-menu>li>a {
+    
+    .main-navigation ul.menu>li>a, .main-navigation ul.nav-menu>li>a {
 		color: #143A53;
 		font-weight: bold;
 		padding: 12px 24px;
@@ -53,15 +53,5 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         position: relative;
         display: inline-block;
         text-align: left;
-	}
-
-	.site-header-cart .cart-contents {
-        padding: 12px 0;
-        display: block;
-        position: relative;
-        background-color: transparent;
-        height: auto;
-        width: auto;
-        text-indent: 0;
 	}
 }
