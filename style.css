@@ -63,5 +63,10 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         height: auto;
         width: auto;
         text-indent: 0;
-	}
+    }
+    
+    .secondary-navigation ul li {
+        border: 2px solid #4A8C8E;
+        border-radius: 4px;
+    }
 }
