@@ -75,9 +75,18 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         border-radius: 4px;
         background: #F2F2F2;
     }
-    
+
     .secondary-navigation ul.menu a, .secondary-navigation ul.menu a:hover {
         color: #4A8C8E;
-          font-weight: 600;
-      }
+        font-weight: 600;
+    }
+
+    .storefront-full-width-content .content-area {
+        border: 1px solid #dedede;
+        border-radius: 3px;
+        width: 100%;
+        float: left;
+        margin-left: 0;
+        margin-right: 0;
+    }
 }
