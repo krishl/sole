@@ -81,7 +81,7 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         font-weight: 600;
     }
 
-    .storefront-full-width-content .content-area {
+    .individual_product {
         border: 1px solid #dedede;
         border-radius: 3px;
         width: 100%;
