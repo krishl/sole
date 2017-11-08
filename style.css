@@ -89,4 +89,14 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         margin-left: 0;
         margin-right: 0;
     }
+
+    .storefront-full-width-content.single-product div.product .woocommerce-product-gallery, .storefront-full-width-content.single-product div.product .images {
+        width: 63.4782608696%;
+        float: left;
+		padding: 15px;
+        margin-right: 0px;
+        margin-bottom: 3.706325903em;
+    }
+
+    
 }
