@@ -98,5 +98,17 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         margin-bottom: 3.706325903em;
     }
 
+    .storefront-full-width-content.single-product div.product .summary {
+        width: 36.5217391304%;
+        float: right;
+        margin-right: 0;
+        margin-bottom: 3.706325903em;
+        background: #F2F2F2;
+        border-left: 1px solid #dedede;
+        border-bottom: 1px solid #dedede;
+        text-align: center;
+        padding: 15px;
+    }
+    
     
 }
