@@ -122,5 +122,14 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         padding-top: 10px;
     }
     
+    .single-product div.product p.price {
+        font-size: 1.41575em;
+        margin: 25px 0;
+        text-align: center;
+        color: #143A53;
+        font-weight: 700;
+        letter-spacing: -0.9px;
+    }
+    
     
 }
