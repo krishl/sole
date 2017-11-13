@@ -110,5 +110,11 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         padding: 15px;
     }
     
+    .storefront-full-width-content.single-product div.product .summary h1 {
+        text-align: center;
+        border-bottom: 1px solid #dedede;
+        padding-bottom: 15px;
+    }
+    
     
 }
