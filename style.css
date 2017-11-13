@@ -116,5 +116,11 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         padding-bottom: 15px;
     }
     
+    .single-product div.product .woocommerce-product-rating {
+        margin-bottom: 1.618em;
+        margin-top: -.875em;
+        padding-top: 10px;
+    }
+    
     
 }
