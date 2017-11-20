@@ -131,5 +131,11 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         letter-spacing: -0.9px;
     }
     
+    .onsale {
+        border-color: #4A8C8E;
+        color: #4A8C8E;
+        display: block;
+    }
+    
     
 }
