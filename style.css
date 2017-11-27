@@ -168,4 +168,8 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         margin-bottom: 10px;
     }
 
-    
+    .site-footer {
+        background-color: #143A53;
+        color: #ffffff;
+    }
+}
