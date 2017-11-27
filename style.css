@@ -153,5 +153,9 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
        justify-content: center;
     }
 
-    
+    label {
+        font-weight: 700;
+        letter-spacing: .3px;
+        font-size: 16px;
+    }
 }
