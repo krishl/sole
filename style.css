@@ -158,4 +158,11 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         letter-spacing: .3px;
         font-size: 16px;
     }
+
+    .woocommerce-product-details__short-description ul {
+        margin: 0 auto;
+        display: table;
+    }
+
+    
 }
