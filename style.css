@@ -142,5 +142,16 @@ Tags:         	light, dark, two-columns, right-sidebar, responsive-layout, acces
         text-transform: capitalize;
     }
     
+    .single-product div.product .variations_button, .single-product div.product .woocommerce-product-rating, .swatch-control {
+       display: -webkit-flex;
+       display: flex;
+       -webkit-flex-direction: row;
+       flex-direction: row;
+       -webkit-align-items: center;
+       align-items: center;
+       -webkit-justify-content: center;
+       justify-content: center;
+    }
+
     
 }
